@@ -1,7 +1,4 @@
 # file_to_png
 
-just
-```cmd
-make
-```
-and `fti path_to_file`
+to build: `make`
+to use: `fti path_to_file`
